@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codemafiaboss
 - 👀 I want leave a positive mark here on earth
-- 💞️ I’m looking to collaborate on web and app devevelopment projects or anything that will transform peoples' lives
-- 📫 I'm super cool.. text me on instagram at __Igadwa
+- 💞️ I’m looking to collaborate on web and app devevelopment projects
+- 💞️ Anything that will transform peoples' lives
+- 📫 I'm super cool... Text me on instagram at __Igadwa
 
 <!---
 codemafiaboss/codemafiaboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
