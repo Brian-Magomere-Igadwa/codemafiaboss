@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @codemafiaboss
-- 👀 I want leave a positive mark here on earth
-- 💞️ I’m looking to collaborate on web and app devevelopment projects
-- 💞️ Anything that will transform peoples' lives
-- 📫 I'm super cool... Text me on instagram at __Igadwa
+# @codemafiaboss
+####  I want leave a positive mark here on our world through teck and music
+#### 📫 I'm super cool let's connect on instagram at __Igadwa
 
 ### Listening To— Spotify 🎧
 
