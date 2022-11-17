@@ -4,7 +4,7 @@
 - 💞️ Anything that will transform peoples' lives
 - 📫 I'm super cool... Text me on instagram at __Igadwa
 
-
+### Listening To— Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&redirect=true)
 
