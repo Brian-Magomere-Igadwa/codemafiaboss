@@ -1,6 +1,6 @@
 # codemafiaboss
-#### I want leave a positive impact here on our world through tech and music 💯 
-#### I'm super cool let's connect on instagram at __Igadwa 📫
+### I want leave a positive impact here on our world through tech and music 💯
+### I'm super cool let's connect on instagram at __Igadwa 
 
 ##### I make music too ❤
 
