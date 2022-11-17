@@ -2,8 +2,6 @@
 ### I want leave a positive impact here on our world through tech and music.
 ### I'm super cool let's connect on instagram at __Igadwa.
 
-##### I make music too.
-
 ### Listening To— Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317foij76626zoxsuewpjhlni7ni&redirect=true)
